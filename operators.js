@@ -29,4 +29,3 @@ console.log(y);
 // Logical operators and = (&&), or = (||)
 // code block operators {}
 // array access operators []
-// https://www.youtube.com/watch?v=S2JVtEwa-kU&list=PLqkLaKB2GJhWXV9rcarwvn06ISlL_9mPQ&index=8

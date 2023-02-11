@@ -1,13 +1,14 @@
 // Arrays
 let numbers = [1, 2, 3]; // Number list
 let strings = ['Html', 'Css', 'Javascript']; // String list
-console.log(numbers[0]); /* Printing the 1st value inside the numbers list !WARNING! 0 returns the 1st value 
-inside an array list*/
+
+// 0 returns the 1st value inside an array list
+console.log(numbers[0]); // Printing the 1st value inside the numbers list
 console.log(numbers[1]); // Printing the 2nd value inside the numbers list
 console.log(numbers[2]); // Printing the 3rd value inside the numbers list
 console.log(numbers[3]); // here we will receive an undefined result cause we have no 4th value assigned
 
-// We can re-assign value inside a list like this:
+// Re-assigning value inside a list
 numbers[0] = 0;
 console.log(numbers); // Printing the updated list after re-assigning
 

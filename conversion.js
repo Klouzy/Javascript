@@ -21,5 +21,5 @@ console.log(result);
 let check_01 = isNaN(string);
 let check_02 = isNaN(number);/* Here we are checking if the string we are trying to convert is not a number
 if yes it will say true else it will say false */
-console.log(check_01); // true
-console.log(check_02); // false
+console.log(check_01); // Return true
+console.log(check_02); // Return false
