@@ -27,4 +27,7 @@ console.log('= Separator =')
 let a = 1; // Assigned 1 to the variable a
 while (a < 11) { // While a is less than 11 run the body below 'console.log(a++);'
     console.log(a++); // Increasing a value every loop until a == 11; (1, 2, 3.., 10)
+
+    if (a == 8) break; // We can interupt the loop with an if statement
+    // Here we are saying if a was 8 break and quit the loop
 }
